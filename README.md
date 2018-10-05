@@ -45,7 +45,8 @@ Usage
 1. Install the package *in your ckan virtual environment*: 
 
 ```sh
-    pip install git+https://github.com/NaturalHistoryMuseum/ckanext-userdatasets#egg=ckanext-userdatasets
+    pip install git+https://github.com/FacundoAdorno/ckanext-userdatasets#egg=ckanext-userdatasets
+    
 ```
 
 
